@@ -1,0 +1,1 @@
+This solution builds fine within Visual Studio. However, it fails to build with `dotnet build TestBuild.sln`. See https://stackoverflow.com/questions/69833414/dotnet-build-failing-with-the-type-or-namespace-name-does-not-exist-in-solu
